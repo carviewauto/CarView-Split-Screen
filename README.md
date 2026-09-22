@@ -6,7 +6,9 @@ Với những anh em có nhu cầu mở nhiều ứng dụng cùng lúc trên m�
 
 Sắp tới, em có thể chia sẻ toàn bộ mã nguồn miễn phí để anh em có nhu cầu tự tùy chỉnh và sử dụng theo ý mình.
 
-Nếu anh em thấy thích và muốn ủng hộ, có thể ghé **[carviewapp.com](https://carviewapp.com)** để tìm hiểu và ủng hộ ứng dụng chính **CarView AA**.
+Nếu anh em thấy thích và muốn ủng hộ, có thể ghé **[carviewapp.com](https://carviewapp.com)** để tìm hiểu và ủng hộ ứng dụng chính **CarView AA**. CarView AA **không cần root**, hỗ trợ **Android 9–17**.
+
+Riêng **CarView Split Screen** trong bản chia sẻ này cần điện thoại đã root và có Vector/LSPosed.
 
 **[Tải APK mới nhất](https://github.com/carviewauto/CarView-Split-Screen/releases/latest)**
 
