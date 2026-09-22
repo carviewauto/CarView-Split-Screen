@@ -1,5 +1,7 @@
 # CarView Split Screen
 
+**Website giới thiệu:** [carviewapp.com](https://carviewapp.com)
+
 Mở 2 hoặc 3 ứng dụng cạnh nhau trên màn hình Android Auto. Bạn có thể chọn ứng dụng cho từng ô, đổi vị trí và kéo chỉnh kích thước cho phù hợp.
 
 **[Tải APK mới nhất](https://github.com/carviewauto/CarView-Split-Screen/releases/latest)**
