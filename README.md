@@ -1,8 +1,12 @@
 # CarView Split Screen
 
-**Website giới thiệu:** [carviewapp.com](https://carviewapp.com)
+Từ khi viết lại CarView AA đến nay, giá trị cốt lõi em hướng đến vẫn là **tối giản, dễ sử dụng và mượt mà**. Em muốn ngay cả những anh em không rành công nghệ cũng có thể cài đặt, kết nối với xe và sử dụng thuận tiện, không phải chỉnh quá nhiều thứ.
 
-Mở 2 hoặc 3 ứng dụng cạnh nhau trên màn hình Android Auto. Bạn có thể chọn ứng dụng cho từng ô, đổi vị trí và kéo chỉnh kích thước cho phù hợp.
+Với những anh em có nhu cầu mở nhiều ứng dụng cùng lúc trên màn hình xe, em làm riêng **CarView Split Screen** và chia sẻ **hoàn toàn miễn phí cho cộng đồng**. Ứng dụng cho phép mở 2 hoặc 3 app cạnh nhau trên Android Auto, chọn app cho từng ô và kéo chỉnh kích thước theo nhu cầu.
+
+Sắp tới, em có thể chia sẻ toàn bộ mã nguồn miễn phí để anh em có nhu cầu tự tùy chỉnh và sử dụng theo ý mình.
+
+Anh em có thể tìm hiểu thêm về CarView AA tại **[carviewapp.com](https://carviewapp.com)**.
 
 **[Tải APK mới nhất](https://github.com/carviewauto/CarView-Split-Screen/releases/latest)**
 
